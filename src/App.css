@@ -1,0 +1,15 @@
+body{
+  display: grid;
+  place-items: center;
+  background-color: white;
+  color: black;
+  font-family: 'Times New Roman', sans-serif;
+}
+
+#root{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
